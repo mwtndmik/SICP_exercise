@@ -1,5 +1,0 @@
-#lang racket
-(define (fast-expt2 a n) (expt a a n))
-
-(define (expt a b n)
-  cod
